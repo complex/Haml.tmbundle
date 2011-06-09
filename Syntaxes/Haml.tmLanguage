@@ -14,7 +14,7 @@
 	<key>keyEquivalent</key>
 	<string>^~H</string>
 	<key>name</key>
-	<string>Ruby Haml</string>
+	<string>Haml</string>
 	<key>patterns</key>
 	<array>
 		<dict>
