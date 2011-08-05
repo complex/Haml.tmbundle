@@ -194,7 +194,7 @@
 		</dict>
 	</dict>
 	<key>name</key>
-	<string>Haml-lang</string>
+	<string>Haml</string>
 	<key>ordering</key>
 	<array>
 		<string>330820E8-E917-47F1-B1C7-64CEAF03B444</string>
